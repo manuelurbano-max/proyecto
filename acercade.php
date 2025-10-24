@@ -1,10 +1,16 @@
 <?php
-echo "Hola desde php 🎅";
 
+/*
+comentario
+en
+bloque
+*/
 
-$miVariable = "Soy variable 1";
+// comentario en línea
+    
+$miVariable = "soy variable 1";
 
-$mivariable = "Soy variable 2";
+$mivariable = "soy variable 2";
 
-echo $miVariable; //bna mani
+echo $miVariable;
 ?>
